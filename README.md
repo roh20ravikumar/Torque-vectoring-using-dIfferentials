@@ -7,6 +7,8 @@ Contributions and results of the "Torque vectoring using differentials" project 
 the state evolution equation for the model predictive controller.
 3. Leveraged the car sim co-simulation with MATLAB Simulink to implement control strategies using the s-function block.
 
+## [Project Report](https://github.com/roh20ravikumar/Torque-vectoring-using-dIfferentials/blob/main/Group%201_Project%202_Report_AuE%208500.pdf)
+
 ### MATLAB Car sim co-simulation:
 
 ![image](https://github.com/roh20ravikumar/Torque-vectoring-using-dIfferentials/assets/95481658/7eb7c13f-fbe6-4658-9db7-69e1e104b80b)
